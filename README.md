@@ -1,5 +1,5 @@
-# Homework 8: Linear Regression
-## Due: 10.30.2020 at 11:59 pm ET
+Linear Regression
+
 
 See [readme.pdf](readme.pdf).
 
